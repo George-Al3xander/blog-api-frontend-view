@@ -8,4 +8,5 @@ export default defineConfig({
     port: 5000,
     open: true,
   },
+  base: "/blog-api-frontend-view/"
 })
